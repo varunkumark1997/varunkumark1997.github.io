@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(177, 215, 245);
+}
+
+h1 {
+    text-align: center;
+}
+
+canvas {
+    border: solid #0c0c0c;
+    border-width: .1ch;
+}
